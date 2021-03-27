@@ -1,0 +1,20 @@
+h1 {
+    font-family: Impact;
+    text-align: center;
+}
+
+#js-test-1 {
+    background-color: antiquewhite;
+}
+
+#js-test-2 {
+    background-color: khaki;
+}
+
+.header {
+    font-size: 48px;
+}
+
+.header__blue {
+    color: blue;
+}
